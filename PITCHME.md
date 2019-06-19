@@ -83,4 +83,11 @@ Webブラウザからのアクセス要求を処理する層。<br>必要に応�
 ####  Webアプリケーション層
 バックエンドで動作するプログラム(JavaやPHP、Rubyなど)を実行したり、データベースへのアクセスを行ない、処理を行う
 ---
+## WebサーバーとAPサーバー
+### Web3層
+Webサーバー → Webサーバー層
+　- Apache, Nginx, IIS
+APサーバー →　Webアプリケーション層
+  - Tomcat, Jboss, GlassFish(Javaの場合)
+---
 ### おわり
