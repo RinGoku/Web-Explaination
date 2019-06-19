@@ -18,7 +18,7 @@
 
 ---
 #### 比較: Webアプリケーション
-![Web全体像](./images/web-simple-overall.png)
+![Web全体像](./images/web-simple-overall.png?position=left&size=55% 100%)
 
 ---
 ## 何が違うのか
