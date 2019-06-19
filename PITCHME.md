@@ -15,7 +15,11 @@
 
 ---
 #### 比較: Webアプリケーション
-![VB.net全体像](./images/web-simple-overall.png)
+![Web全体像](./images/web-simple-overall.png)
 
-
+---
+## 何が違うのか
+- クライアントとデータベースの間にWebサーバーが存在
+  * クライアントはデータベースのことを意識しない
+---
 ### おわり
