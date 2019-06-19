@@ -10,7 +10,7 @@ Webブラウザ上で動作するプログラミング言語（たとえばJavaS
 ---
 
 
-### 比較: VB.netアプリ
+#### 比較: VB.netアプリ
 ![VB.net全体像](./vb-overall.png)
 
 
