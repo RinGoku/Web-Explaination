@@ -11,7 +11,7 @@
 
 ---
 #### 比較: VB.netアプリケーション
-![VB.net全体像](./vb-overall.png)
+![VB.net全体像](./images/vb-overall.svg)
 
 ---
 #### 比較: Webアプリケーション
