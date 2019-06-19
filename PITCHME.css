@@ -8,3 +8,6 @@ img {
   width: 90% !important; 
   object-fit: scale-down !important; 
 }
+ul, ol {
+ margin-left: 6% !important; 
+}
