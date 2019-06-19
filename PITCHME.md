@@ -11,10 +11,11 @@
 
 ---
 #### 比較: VB.netアプリケーション
-![VB.net全体像](./images/vb-overall.png)
+![VB.net全体像](./images/vb-simple-overall.png)
 
 ---
 #### 比較: Webアプリケーション
+![VB.net全体像](./images/web-simple-overall.png)
 
 
 ### おわり
