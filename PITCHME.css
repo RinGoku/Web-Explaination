@@ -7,7 +7,7 @@ h3 {
 img {
     width: 50% !important;
     margin: auto !important;
-    display: block;
+    display: block !important;
 }
 ul, ol {
  margin-left: 6% !important; 
