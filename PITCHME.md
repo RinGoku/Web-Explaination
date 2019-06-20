@@ -12,7 +12,7 @@
 - トラブルシューティングができない
 ---
 #### 比較: C/S
-![VB.net全体像](./images/vb-simple-overall.png)
+![VB.net全体像](./images/cs-overall.png)
 
 ---
 #### 比較: Web
