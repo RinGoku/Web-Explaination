@@ -100,6 +100,7 @@ WebサーバーとAPサーバーは物理的に分けることもできるが、
 ---
 ## WebサーバーとAPサーバー
 WebサーバーとAPサーバーは下図のように結びついている
+
 ![Apache-JBoss](./images/apache-jboss.png)
 
 ---
