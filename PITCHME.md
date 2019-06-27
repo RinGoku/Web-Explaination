@@ -47,7 +47,7 @@
 ### WebAPサーバー⇔データベースサーバー
 - データソース
 - JNDI
-- O/Rマッパー
+- O/Rマッピング
 ---
 ### データソース
 データベースへのアクセスを提供する機能
@@ -70,12 +70,19 @@
 → 例えば接続先情報を変更したい要件が発生してもプログラムを直す必要がなくなる
 ---
 ### JNDI
-![jndi-datasource](./images/jndi-datasource.png)
+![datasource](./images/datasource_jndi.png)
 
 ---
-### O/Rマッパー
-プログラムの中から具体的な接続先やユーザー名などの情報を排除できる
-
-→ 例えば接続先情報を変更したい要件が発生してもプログラムを直す必要がなくなる
+### O/Rマッピング
+「オブジェクト志向」と「リレーショナルデータベース」のミスマッチを吸収する機能
+ - SQLの実行結果をJavaオブジェクトへ変換する
+![jndi-datasource](./images/Object_RDB.png)
+---
+### O/Rマッピング
+主なO/Rマッパー
+- MyBatis, Torque, Hibernate
+---
+### O/Rマッピング
+![datasource](./images/datasource_jndi_or.png)
 ---
 ### お疲れ様でした
