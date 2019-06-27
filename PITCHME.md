@@ -17,8 +17,8 @@
 - リバースプロキシ方式
 - 代理認証方式
 - フェデレーション方式
- ---
+---
 ## エージェント方式
-![SSO-Agent](./images/SSO-agent.png)
+![SSO-Agent](./images/SSO_agent.png)
 ---
 ### お疲れ様でした
